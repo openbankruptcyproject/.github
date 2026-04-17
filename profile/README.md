@@ -6,9 +6,11 @@ Free, open-source tools bringing transparency to the U.S. bankruptcy system.
 
 - **National Case Database** -- 4.9 million federal bankruptcy cases across all 94 districts
 - **[Discharge Eligibility Screener](https://1328f.com)** -- instant screening tool ranking page 1 on Google
-- **[Educational Network](https://openbankruptcyproject.org)** -- 139 domains, 2,300+ pages of free bankruptcy information
+- **[Educational Network](https://openbankruptcyproject.org)** -- 161 domains, 8,800+ pages of free bankruptcy information
+- **[All Guides](https://1328f.com/guides.html)** -- 14 topic clusters covering every major bankruptcy question
 - **Attorney Performance Analytics** -- empirical analysis from public PACER data
-- **[Proposed Federal Rule 26-BK-3](https://www.uscourts.gov/rules-policies/pending-rules-and-forms-amendments)** -- accepted for consideration by the Rules Committee
+- **[Proposed Federal Rule 26-BK-3](https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-3)** -- Rule 4004 amendment, accepted for consideration by the Rules Committee
+- **[Proposed Federal Rule 26-BK-5](https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-5)** -- Rule 9037 amendment re SSN exposure on bankruptcy forms
 
 ## Why This Matters
 
@@ -22,4 +24,4 @@ We are changing that.
 - **Sponsor our work** -- [GitHub Sponsors](https://github.com/sponsors/openbankruptcyproject)
 - **Contact us** -- info@openbankruptcyproject.org
 
-501(c)(3) determination pending (EIN 41-5159631).
+501(c)(3) nonprofit (EIN 41-5159631).
